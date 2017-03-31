@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">de.vogella.android.sqlite.first</string>
+    <string name="title_activity_test_database">TestDatabaseActivity</string>
+</resources>
